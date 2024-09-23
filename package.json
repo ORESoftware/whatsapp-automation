@@ -30,7 +30,10 @@
     "url": "https://github.com/ORESoftware/typescript-library-skeleton/issues"
   },
   "homepage": "https://github.com/ORESoftware/typescript-library-skeleton#readme",
-  "dependencies": {},
+  "dependencies": {
+    "jsdom": "^25.0.0",
+    "puppeteer": "^23.1.1"
+  },
   "devDependencies": {
     "@types/node": "^20.11.25"
   }

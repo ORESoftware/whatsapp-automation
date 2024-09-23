@@ -8,7 +8,6 @@ import * as assert from 'assert';
 import * as EE from 'events';
 import * as strm from "stream";
 
-
 export const foo = 'bar';
 
 export const r2gSmokeTest = async function () {
